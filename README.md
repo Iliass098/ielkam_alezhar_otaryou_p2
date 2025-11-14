@@ -1,6 +1,6 @@
 # Práctica 2 - Flutter Pokédex
 
-**Autores:** Oussama Taryous, Ilyass El Kamili y Ayman Lezhar
+**Autores:** Oussama Taryous, Iliass El Kamili y Ayman Lezhar
 
 Este repositorio contiene la solución a la Práctica 2 de IPC, que consiste en una aplicación Flutter estilo Pokédex con autenticación, navegación con iconos y detalle de cada ítem. La app cumple con los requisitos del entregable publicados en los enlaces oficiales.
 
