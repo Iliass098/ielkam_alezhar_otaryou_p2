@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/haxeil/Dev/ielkam_alezhar_otaryou_p2/build/linux/x64/debug/cmake_install.cmake",
+		"/home/haxeil/Dev/ielkam_alezhar_otaryou_p2/build/linux/x64/debug/flutter/cmake_install.cmake",
+		"/home/haxeil/Dev/ielkam_alezhar_otaryou_p2/build/linux/x64/debug/runner/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
