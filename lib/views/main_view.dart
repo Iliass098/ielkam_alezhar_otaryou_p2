@@ -93,35 +93,7 @@ class _FirstViewState extends State<FirstView> {
                 ],
               ),
             ),
-            Container(
-              padding: const EdgeInsets.all(10),
-              decoration: BoxDecoration(
-                color: Colors.blue[50],
-                borderRadius: BorderRadius.circular(10),
-                border: Border.all(color: Colors.blueAccent),
-              ),
-              child: Column(
-                children: [
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                    children: const [
-                      Icon(Icons.person, color: Colors.blue, size: 40),
-                      Icon(Icons.book, color: Colors.green, size: 40),
-                      Icon(Icons.school, color: Colors.orange, size: 40),
-                    ],
-                  ),
-                  const SizedBox(height: 10),
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                    children: const [
-                      Text('Profile'),
-                      Text('Courses'),
-                      Text('Grades'),
-                    ],
-                  ),
-                ],
-              ),
-            ),
+
           ],
         ),
       ),
